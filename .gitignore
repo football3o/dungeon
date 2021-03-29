@@ -1,0 +1,11 @@
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+lib/
+EnemyTest
+WeaponTest
+ArmorTest
+PotionTest
+PlayerTest
+MainTest
